@@ -7,7 +7,7 @@ The purpose of this analysis is to provide Pewlett Hackard (PH) with the require
 ## Results: 
 Summary: In response to the upcoming "silver tsunami", 300,024)= roles have been identified as key roles for which PH needs to actively backfill as shown in the table below:
 
-
+https://github.com/klegaultguthrie/Module-7-Challenge/blob/main/Count%20of%20roles%20PH%20which%20will%20be%20vacant%20after%20retirements.png
 
 -
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
